@@ -3,6 +3,5 @@ ssh jieuryli@do1.int-research.com <<EOF
  cd /home/jieuryli/devel/node/hello-jenkins
  git pull
  npm test
- npm install
  exit
 EOF
